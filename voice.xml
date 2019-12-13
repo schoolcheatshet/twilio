@@ -1,4 +1,4 @@
 <Response>
 <Say voice="alice">You Have Been Hacked!</Say>
-<Play>https://gallant-hermann-ba194d.netlify.com/fun.mp3</Play>
+<Play>http://gallant-hermann-ba194d.netlify.com/fun.mp3</Play>
 </Response>
