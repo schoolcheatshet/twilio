@@ -1,1 +1,3 @@
-update
+Update: 
+New: ask for a anime: it gives you a random anime
+plus: made The Bot Smarter.
